@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @enoskyeza
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python, django, web-deevlopment
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning React, DRF,
+- 💞️ I’m looking to collaborate on python projects & Web apps
 - 📫 How to reach me enoskyeza@gmail.com
 
 <!---
